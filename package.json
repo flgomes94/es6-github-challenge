@@ -1,0 +1,9 @@
+{
+  "name": "es6-github-challenge",
+  "version": "1.0.0",
+  "description": "Challenge Using Github API with ES6",
+  "main": "index.js",
+  "repository": "https://github.com/flgomes94/es6-github-challenge",
+  "author": "fabio <fabiolopes.dev@gmail.com>",
+  "license": "MIT"
+}
